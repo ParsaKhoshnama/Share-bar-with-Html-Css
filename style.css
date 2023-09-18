@@ -136,7 +136,7 @@ body{
     border: 0.25px solid #BDBDBD;
 }
 
-.share-bar:hover #pinterest:hover,.share-bar:hover #linkdin:hover,
+.share-bar:hover #pinterest:hover,.share-bar:hover #inkedin:hover,
 .share-bar:hover #whatsapp:hover,.share-bar:hover #paper:hover
 {
     border:1px solid #757575;
