@@ -103,6 +103,7 @@ body{
     transform: skewX(-10deg);
     margin-right: 10px;
     min-width: 100px;
+    transition: all 200ms;
 }
 .fa-heart{
     width: 50px;
